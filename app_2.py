@@ -5,7 +5,7 @@ from keras.preprocessing.image import load_img, img_to_array
 import numpy as np
 import pyttsx3
 
-from PIL import Image
+#from PIL import Image
 
 
 
